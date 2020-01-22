@@ -25,9 +25,9 @@
 ===
 Number and name of feature: #1, Locations
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 1:00
 
-Start time: _____
+Start time: 22:35
 
 Finish time: _____
 
