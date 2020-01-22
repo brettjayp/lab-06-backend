@@ -23,15 +23,15 @@
 ===
 # Feature One
 ===
-Number and name of feature: #1, Locations
+Number and name of feature: #1, Setup
 
 Estimate of time needed to complete: 1:00
 
 Start time: 22:35
 
-Finish time: _____
+Finish time: 23:45
 
-Actual time needed to complete: _____
+Actual time needed to complete: 1:10
 
 
 
@@ -47,3 +47,4 @@ Start time: _____
 Finish time: _____
 
 Actual time needed to complete: _____
+
